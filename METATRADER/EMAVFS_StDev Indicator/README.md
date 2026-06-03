@@ -103,6 +103,6 @@ This project is for educational and technical analysis purposes only. It is not 
 ## Credits
 Nikolay Kositsin
 https://www.mql5.com/en/code/20720
-Original indicator: `EMAVFS_StDev.mq5`
+Original indicator: `EMAVFS_StDev.mq5
 Original reference: http://stan.okis.ru/file/stan/EMAVFS.pdf
->>>>>>> 18b350f ( port EMAVFS_StDev indicator from MQL5 to MQL4)
+18b350f ( port EMAVFS_StDev indicator from MQL5 to MQL4)
