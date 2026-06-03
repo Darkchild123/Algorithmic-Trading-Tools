@@ -1,9 +1,12 @@
 //+------------------------------------------------------------------+
-//|                                            EMAVFS_StDev_v2.mq4   |
-//|                         Converted from MetaTrader 5 MQ5 to MQ4   |
-//|                         Original link: http://stan.okis.ru/file/stan/EMAVFS.pdf |
+//|                                               EMAVFS_StDev.mq4   |
+//|     Converted from MetaTrader 5 MQ5 to MQ4 by Cosmas Nwachukwu   |
+//|                                           finecosmas@gmail.com   |
+//|        Original link: http://stan.okis.ru/file/stan/EMAVFS.pdf   |
+//|                             https://www.mql5.com/en/code/20720   |
 //+------------------------------------------------------------------+
-#property copyright "Copyright (c) 2018, Stanislav Bulashev"
+
+#property copyright "Copyright (c) 2026"
 #property link      "http://stan.okis.ru/file/stan/EMAVFS.pdf"
 #property strict
 
